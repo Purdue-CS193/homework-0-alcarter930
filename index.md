@@ -4,6 +4,16 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+This is a _Test_ of  what the website can do!
+It can do **Bold** text, or even can put a hello world program!
+```
+public class HelloWorld{
+  public static void main (String[] args){
+    System.out.println("Hello World");
+    }
+   }
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -14,6 +24,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
 
 - Bulleted
 - List
